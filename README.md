@@ -1,5 +1,4 @@
-
-## 🌸   Hi!, Welcome to my Github Account  ✨
+## ⋅⋆ Hi!, Welcome to my Github Account  ⋆⋅
 I'm passionate about developing and improving my coding and programming skills. I'm currently interested in making different GUI projects. This is where you will see different projects and programs that I have made
 
 
