@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Pauleenaira/Pauleenaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸   Hi!, Welcome to my Github Account  ✨
+I'm passionate about developing and improving my coding and programming skills. I'm currently interested in making different GUI projects. This is where you will see different projects and programs that I have made
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🤔 About Me
+I'm Pauleenaira!
+- Currently a second year Computer Engineering student at Technological Institute of the Philippines. 
+
+## 📙 Currently taking 
+- Human Computer Interaction Track. 
+
+## 🛠 I code with
+C++ & Python
