@@ -4,7 +4,7 @@ I'm passionate about developing and improving my coding and programming skills. 
 
 
 
-## 🤔 About Me
+## 「 ✦  About Me  ✦ 」
 I'm Pauleenaira!
 - Currently a second year Computer Engineering student at Technological Institute of the Philippines. 
 
